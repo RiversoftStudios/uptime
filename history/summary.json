@@ -4,9 +4,9 @@
     "url": "https://rivergames.ca",
     "icon": "https://icons.duckduckgo.com/ip3/rivergames.ca.ico",
     "slug": "river-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 598,
     "timeMonth": 692,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-03": 1
+    }
   },
   {
     "name": "Riverpedia",
     "url": "https://wiki.rivergames.ca",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rivergames.ca.ico",
     "slug": "riverpedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -34,6 +36,7 @@
     "timeMonth": 2135,
     "timeYear": 2127,
     "dailyMinutesDown": {
+      "2026-05-03": 0,
       "2026-04-12": 28
     }
   },
@@ -54,7 +57,7 @@
     "timeMonth": 779,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2026-05-03": 146,
+      "2026-05-03": 1080,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
