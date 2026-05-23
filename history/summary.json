@@ -24,9 +24,9 @@
     "url": "https://wiki.rivergames.ca",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rivergames.ca.ico",
     "slug": "riverpedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.85%",
@@ -36,6 +36,7 @@
     "timeMonth": 2464,
     "timeYear": 2238,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-05-06": 101,
       "2026-05-03": 74,
       "2026-04-12": 28
@@ -58,7 +59,7 @@
     "timeMonth": 623,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2026-05-23": 153,
+      "2026-05-23": 1333,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
