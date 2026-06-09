@@ -9,6 +9,10 @@ sites:
     url: https://wiki.rivergames.ca
   - name: River Blogs
     url: https://blog.rivergames.ca
+  - name: Phoenix Coe
+    url: https://phoenixcoe.tech
+  - name: Little Blue Dev
+    url: https://littlebluedev.ca
 
 status-website:
   baseUrl: /uptime
