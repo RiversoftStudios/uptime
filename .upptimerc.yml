@@ -9,15 +9,15 @@ sites:
     url: https://wiki.rivergames.ca
   - name: River Blogs
     url: https://blog.rivergames.ca
-  - name: Phoenix Coe
-    url: https://phoenixcoe.tech
+  - name: PMC Studios
+    url: https://pmcstudios.uk
   - name: Little Blue Guy
     url: https://littlebluedev.ca
 
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: River Games Status
+  name: Riversoft Status
   introTitle: "This is River's status page. Welcome."
   introMessage: All of the services River has are monitored for server status here. Powered by [upptime](https://github.com/upptime/upptime)
   navbar:
