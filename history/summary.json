@@ -17,7 +17,7 @@
     "timeYear": 786,
     "dailyMinutesDown": {
       "2026-05-03": 74,
-      "2026-10-23": 1187,
+      "2026-10-23": 1195,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -184,7 +184,7 @@
       "2026-05-03": 74,
       "2026-05-06": 101,
       "2026-05-23": 57,
-      "2026-10-23": 1187,
+      "2026-10-23": 1195,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -347,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2026-10-23": 1187,
+      "2026-10-23": 1195,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -609,11 +609,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -628,30 +628,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 210,
-    "timeWeek": 204,
+    "timeDay": 213,
+    "timeWeek": 206,
     "timeMonth": 217,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
-    "name": "colebohte Nginx Server",
+    "name": "colebohte Apache2",
     "url": "https://foxington.cloud-ip.cc",
     "icon": "https://icons.duckduckgo.com/ip3/foxington.cloud-ip.cc.ico",
-    "slug": "colebohte-nginx-server",
+    "slug": "colebohte-apache2",
     "status": "down",
-    "uptime": "6.18%",
-    "uptimeDay": "6.18%",
-    "uptimeWeek": "6.18%",
-    "uptimeMonth": "6.18%",
-    "uptimeYear": "6.18%",
+    "uptime": "56.59%",
+    "uptimeDay": "56.59%",
+    "uptimeWeek": "56.59%",
+    "uptimeMonth": "56.59%",
+    "uptimeYear": "56.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 3
+      "2026-10-23": 0
     }
   }
 ]
