@@ -13,6 +13,8 @@ sites:
     url: https://pmcstudios.uk
   - name: Little Blue Guy
     url: https://littlebluedev.ca
+  - name: colebohte Nginx Server
+    url: https://foxington.cloud-ip.cc
 
 status-website:
   baseUrl: /uptime
