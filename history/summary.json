@@ -17,7 +17,7 @@
     "timeYear": 786,
     "dailyMinutesDown": {
       "2026-05-03": 74,
-      "2026-10-23": 1181,
+      "2026-10-23": 1184,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -184,7 +184,7 @@
       "2026-05-03": 74,
       "2026-05-06": 101,
       "2026-05-23": 57,
-      "2026-10-23": 1181,
+      "2026-10-23": 1184,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -347,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2026-10-23": 1181,
+      "2026-10-23": 1184,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -609,11 +609,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "time": 155,
+    "timeDay": 155,
+    "timeWeek": 155,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -627,11 +627,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 274,
-    "timeWeek": 218,
-    "timeMonth": 222,
-    "timeYear": 205,
+    "time": 204,
+    "timeDay": 226,
+    "timeWeek": 208,
+    "timeMonth": 219,
+    "timeYear": 204,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "colebohte Nginx Server",
+    "url": "https://foxington.cloud-ip.cc",
+    "icon": "https://icons.duckduckgo.com/ip3/foxington.cloud-ip.cc.ico",
+    "slug": "colebohte-nginx-server",
+    "status": "down",
+    "uptime": "52.55%",
+    "uptimeDay": "52.55%",
+    "uptimeWeek": "52.55%",
+    "uptimeMonth": "52.55%",
+    "uptimeYear": "52.55%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-23": 0
+    }
   }
 ]
