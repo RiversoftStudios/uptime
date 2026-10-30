@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: River Games
-    url: https://rivergames.ca
+    url: https://riversoftstudios.github.io/river-site/#home
   - name: Riverpedia
     url: https://wiki.rivergames.ca
   - name: River Blogs
