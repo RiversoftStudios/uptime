@@ -13,8 +13,10 @@ sites:
     url: https://pmcstudios.uk
   - name: Little Blue Guy
     url: https://littlebluedev.ca
-  - name: colebohte Apache2
-    url: https://foxington.cloud-ip.cc
+  - name: RiverCraft MP (ClassiCube / Minecraft)
+    url: 24.141.138.159
+    check: "tcp-ping"
+    port: 25565
 
 status-website:
   baseUrl: /uptime
